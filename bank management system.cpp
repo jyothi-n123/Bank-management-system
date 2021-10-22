@@ -1,5 +1,5 @@
 /* 
- Banking System Management 
+ Bank Management System 
  Author : N.Jyothi
  Date : 19-10-2021 																
 */
